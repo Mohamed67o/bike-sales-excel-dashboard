@@ -25,10 +25,7 @@ This project analyzes customer bike purchase behavior using Microsoft Excel.
 - Which regions generate the most bike sales?
 
 ## Dashboard Preview
-
-<img width="1360" height="768" alt="Screenshot (74)" src="https://github.com/user-attachments/assets/8b6abcc6-edf4-4a2c-bd0f-d13f169fafa4" />
-<img width="1360" height="768" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/72c7861c-3bc2-4a35-8bd0-f38e8fdf8f4a" />
-
+<img width="1360" height="720" alt="Dashboard" src="https://github.com/user-attachments/assets/c8a7ca44-de53-41d5-a8f4-b38881f88ce4" />
 
 ## Key Insights
 
